@@ -7,3 +7,5 @@ DS Group Pvt Ltd
 ETSI Open Source MANO
 US Department of Transportation LinkedIn Recommendation
 Gumroad Pvt Ltd
+Indian Army Acknowledgement Certificate
+Deutsche Telekom Pvt Ltd
