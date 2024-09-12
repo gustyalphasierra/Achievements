@@ -1,11 +1,21 @@
 Here are my Achievements
 
 NCIIPC Acknowledgement Letters
+Indian Army Acknowledgement Certificate
+NASA
+CISCO
+Barclays Bank, UK
+Seagate
+US National Science Foundation
 US Department of Transportation
 UK Research and Innovation Institute
-DS Group Pvt Ltd
-ETSI Open Source MANO
 US Department of Transportation LinkedIn Recommendation
-Gumroad Pvt Ltd
-Indian Army Acknowledgement Certificate
+ETSI Open Source MANO
 Deutsche Telekom Pvt Ltd
+DS Group Pvt Ltd
+Gumroad Pvt Ltd
+
+
+
+
+
